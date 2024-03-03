@@ -4,7 +4,6 @@ y
                   ESTO ES UNA MODIFICACIÓN
 <html><body> Holaaaaaaaaaaaaaaaaa mundo </body></html>  (Remoto compañero) 
 Esto es para el stash
-
-
-
 Este cambio esta en la rama equivocada  (Cambio equivocado)
+
+Archivo modificado para borrar commit
